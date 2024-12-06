@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner number",
       "required": true,
-      "value": "923444844060"
+      "value": "2347077745580"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -25,17 +25,17 @@
     "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "uYxRARhI#LZEQz72THn1fTf8eNx-DWhYaLpp2-25KE_MFWGvp8wA"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": "public"
+      "value": "private "
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
-      "required": false,
-      "value": ""
+      "required": true,
+      "value": "."
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -60,7 +60,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
